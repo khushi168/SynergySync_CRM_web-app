@@ -1,2 +1,2 @@
 # SynergySync_CRM_web-app
-A CRM web application 
+Developed a comprehensive CRM web application using Django, named Synergy-Sync.
